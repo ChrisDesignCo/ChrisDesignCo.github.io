@@ -45,9 +45,9 @@ theme:
   profile_shape: rounded # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#24c6dc'
-    color_2: '#5433ff'
-    color_3: '#ff0099'
+    color_1: '#00A834'
+    color_2: '#DDF5E0'
+    color_3: '#D3DB65'
   postEdit:
     enable: true
     url: https://github.com/ChrisDesignCo/ChrisDesignCo.github.io/tree/master/source/_posts/ # Link for view source
