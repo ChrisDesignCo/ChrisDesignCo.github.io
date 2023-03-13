@@ -10,8 +10,8 @@ site:
   link: '/'
   language: en
   multi_language: true
-  logo: https://imgur.com/a/Tirkedl
-  avatar: https://imgur.com/a/Tirkedl
+  logo: https://imgur.com/kcH8Ip6
+  avatar: https://imgur.com/kcH8Ip6
 
 #! ---------------------------------------------------------------
 #! Authors Configs
@@ -21,7 +21,7 @@ authors:
   ##! example
   adminy:
     name: Chris Mukendi
-    avatar: https://imgur.com/a/Tirkedl
+    avatar: https://imgur.com/kcH8Ip6
     link: https://github.com/ChrisDesignCo
     description: "Beat me in simplicity and I'll tell you all the secrets!"
     socials:
