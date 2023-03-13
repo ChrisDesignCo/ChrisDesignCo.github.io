@@ -11,7 +11,7 @@ site:
   language: en
   multi_language: true
   logo: https://avatars.githubusercontent.com/u/22717869?v=4
-  avatar: https://avatars.githubusercontent.com/u/22717869?v=4
+  avatar: https://imgur.com/a/Tirkedl
 
 #! ---------------------------------------------------------------
 #! Authors Configs
@@ -21,7 +21,7 @@ authors:
   ##! example
   adminy:
     name: Chris Mukendi
-    avatar: https://avatars.githubusercontent.com/u/22717869?v=4
+    avatar: https://imgur.com/a/Tirkedl
     link: https://github.com/ChrisDesignCo
     description: "Beat me in simplicity and I'll tell you all the secrets!"
     socials:
